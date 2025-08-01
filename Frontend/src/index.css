@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.homepage-bg {
+  background: radial-gradient(ellipse at 70% 80%, #0a2763 0%, #181b22 80%);
+  position: relative;
+}
